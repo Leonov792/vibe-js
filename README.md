@@ -1,7 +1,6 @@
-[![UI](https://img.shields.io/badge/UI-Engine-ff7a1a?style=for-the-badge&logoColor=white)](https://github.com/Leonov792/vibe-js)
-[![Size](https://img.shields.io/badge/Size-3.4%20KB%20gzip-29b6f6?style=for-the-badge)](https://github.com/Leonov792/vibe-js)
-[![License](https://img.shields.io/badge/License-MIT-8b949e?style=for-the-badge)](LICENSE)
-[![CI](https://img.shields.io/badge/CI-passing-2ea44f?style=for-the-badge)](https://github.com/Leonov792/vibe-js/actions)
+[![UI Engine](https://shields.io)](https://github.com)
+[![Size](https://shields.io)](https://github.com)
+[![License](https://shields.io)](https://github.com)
 
 # 🏠 Vibe.js
 
